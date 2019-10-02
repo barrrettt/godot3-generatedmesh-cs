@@ -116,7 +116,7 @@ public class GeneratedMesh : MeshInstance{
 
                 //to mesh
                 Vector3 offset = new Vector3(j,0,i);
-                createQuad(st, offset, q, heightsColors[0]);
+                createQuad(st, offset, q);
 
                 /*//debug algoritm
                 GD.Print(string.Format("•quad{0}:({1},{2}): points: \n{3} {4} {5}   {6} {7} {8}\n{9} {10} {11}   {12} {13} {14}",
@@ -135,7 +135,7 @@ public class GeneratedMesh : MeshInstance{
 
     }
 
-    private SurfaceTool createQuad(SurfaceTool st, Vector3 pos, Quat q, Color qColor){
+    private SurfaceTool createQuad(SurfaceTool st, Vector3 pos, Quat q){
         
         //1Quad = 4 points = 2 triangles
         Vector3 v1 = new Vector3(0, q.x,-1) + pos;
