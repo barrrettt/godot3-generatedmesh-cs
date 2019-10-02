@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://GeneratedMesh.cs" type="Script" id=1]
+
+[node name="GeneratedMesh" type="MeshInstance"]
+transform = Transform( 1, 0, 0, 0, 0.987502, 0.157604, 0, -0.157604, 0.987502, 0, 0, 0 )
+script = ExtResource( 1 )
