@@ -1,0 +1,6 @@
+E:\GITHUB\GeneratedMesh-Godot-Cs\GeneratedMesh\.mono\temp\bin\Tools\GeneratedMesh.dll
+E:\GITHUB\GeneratedMesh-Godot-Cs\GeneratedMesh\.mono\temp\bin\Tools\GeneratedMesh.pdb
+E:\GITHUB\GeneratedMesh-Godot-Cs\GeneratedMesh\.mono\temp\obj\Tools\GeneratedMesh.csprojAssemblyReference.cache
+E:\GITHUB\GeneratedMesh-Godot-Cs\GeneratedMesh\.mono\temp\obj\Tools\GeneratedMesh.csproj.CoreCompileInputs.cache
+E:\GITHUB\GeneratedMesh-Godot-Cs\GeneratedMesh\.mono\temp\obj\Tools\GeneratedMesh.dll
+E:\GITHUB\GeneratedMesh-Godot-Cs\GeneratedMesh\.mono\temp\obj\Tools\GeneratedMesh.pdb
